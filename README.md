@@ -1,2 +1,2 @@
-# prediction_prix_l-immobile-
-Projet de Prédiction des prix de l'immobilier 
+# prediction prix de l'immobilier
+ Dans le monde en constante évolution de la technologie, l'apprentissage automatique est devenu un outil puissant pour relever divers défis du monde réel. Une de ces applications est la prédiction des prix des maisons à l'aide de la régression linéaire dans l'immobilier. La capacité à prévoir les valeurs des propriétés peut énormément bénéficier aux agents immobiliers, aux propriétaires et aux acheteurs. Dans ce blog, nous allons explorer un projet fascinant d'apprentissage automatique qui utilise l'algorithme de régression linéaire pour prédire avec précision les prix de vente des maisons en utilisant Python.
